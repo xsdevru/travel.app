@@ -1,0 +1,14 @@
+.block-start-search {
+    background: #ccc;
+    aspect-ratio: 1.4;
+}
+.block-start-search .q {
+    display: flex;
+    flex-direction: row;
+    background: #FFFFFF;
+    border-radius: 10px;
+    height: 48px;
+    align-items: center;
+    text-decoration: none;
+    color: var(--color-text);
+}
